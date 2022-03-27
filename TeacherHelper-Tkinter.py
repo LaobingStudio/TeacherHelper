@@ -1,6 +1,6 @@
 from tkinter import *
 from random import randint
-from tkinter.messagebox import *
+from tkinter.messagebox import showinfo
 
 people = dict(computer = 59, class9 = 60)
 
