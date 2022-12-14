@@ -1,0 +1,548 @@
+[2022-12-14T22:06:19.645957 5792 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) base_dir = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) compiler = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) compiler_type = auto
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) compression = true
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) compression_level = 0
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) cpp_extension = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) debug = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) debug_dir = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) depend_mode = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) direct_mode = true
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) disable = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) file_clone = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) hard_link = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) hash_dir = true
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) ignore_options = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) inode_cache = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:19.645957 5792 ] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) max_files = 0
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) namespace = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) path = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) prefix_command = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) read_only = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) read_only_direct = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) recache = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) reshare = false
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) secondary_storage = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) stats = true
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) stats_log = 
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:19.645957 5792 ] Config: (default) umask = 
+[2022-12-14T22:06:19.646489 5792 ] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-12-14T22:06:19.662474 5792 ] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:19.662474 5792 ] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:19.662474 5792 ] Compiler type: gcc
+[2022-12-14T22:06:19.663551 5792 ] Source file: __constants.c
+[2022-12-14T22:06:19.663551 5792 ] Object file: __constants.o
+[2022-12-14T22:06:19.664092 5792 ] Trying direct lookup
+[2022-12-14T22:06:19.664638 5792 ] Retrieved 625fkp2dijbjq028sv9gs6b9oqh2pe8iq from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/2/5fkp2dijbjq028sv9gs6b9oqh2pe8iqM)
+[2022-12-14T22:06:19.665724 14960] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:19.665724 14960] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) base_dir = 
+[2022-12-14T22:06:19.665724 14960] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:19.665724 14960] Config: (default) compiler = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:19.665724 14960] Config: (default) compiler_type = auto
+[2022-12-14T22:06:19.665724 14960] Config: (default) compression = true
+[2022-12-14T22:06:19.665724 14960] Config: (default) compression_level = 0
+[2022-12-14T22:06:19.665724 14960] Config: (default) cpp_extension = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) debug = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) debug_dir = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) depend_mode = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) direct_mode = true
+[2022-12-14T22:06:19.665724 14960] Config: (default) disable = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) file_clone = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) hard_link = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) hash_dir = true
+[2022-12-14T22:06:19.665724 14960] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) ignore_options = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) inode_cache = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:19.665724 14960] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:19.665724 14960] Config: (default) max_files = 0
+[2022-12-14T22:06:19.665724 14960] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:19.665724 14960] Config: (default) namespace = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) path = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) prefix_command = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) read_only = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) read_only_direct = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) recache = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) reshare = false
+[2022-12-14T22:06:19.665724 14960] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:19.665724 14960] Config: (default) secondary_storage = 
+[2022-12-14T22:06:19.665724 14960] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:19.665724 14960] Config: (default) stats = true
+[2022-12-14T22:06:19.665724 14960] Config: (default) stats_log = 
+[2022-12-14T22:06:19.665724 14960] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:19.665724 14960] Config: (default) umask = 
+[2022-12-14T22:06:19.665724 14960] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __helpers.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src __helpers.c
+[2022-12-14T22:06:19.670737 5792 ] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/2/5fkp2dijbjq028sv9gs6b9oqh2pe8iqM
+[2022-12-14T22:06:19.673736 14960] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:19.673736 14960] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:19.673736 14960] Compiler type: gcc
+[2022-12-14T22:06:19.677870 14960] Source file: __helpers.c
+[2022-12-14T22:06:19.677870 14960] Object file: __helpers.o
+[2022-12-14T22:06:19.677870 14960] Trying direct lookup
+[2022-12-14T22:06:19.678883 14960] Retrieved f7f3i4teqkgfvon5s33b7s4dphjkdluh4 from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/7/f3i4teqkgfvon5s33b7s4dphjkdluh4M)
+[2022-12-14T22:06:19.678883 14960] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/7/f3i4teqkgfvon5s33b7s4dphjkdluh4M
+[2022-12-14T22:06:19.713174 8068 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) base_dir = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) compiler = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) compiler_type = auto
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) compression = true
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) compression_level = 0
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) cpp_extension = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) debug = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) debug_dir = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) depend_mode = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) direct_mode = true
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) disable = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) file_clone = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) hard_link = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) hash_dir = true
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) ignore_options = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) inode_cache = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:19.713174 8068 ] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) max_files = 0
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) namespace = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) path = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) prefix_command = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) read_only = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) read_only_direct = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) recache = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) reshare = false
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) secondary_storage = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) stats = true
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) stats_log = 
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:19.713174 8068 ] Config: (default) umask = 
+[2022-12-14T22:06:19.713174 8068 ] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src __loader.c
+[2022-12-14T22:06:19.722152 8068 ] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:19.722152 8068 ] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:19.722152 8068 ] Compiler type: gcc
+[2022-12-14T22:06:19.728463 8068 ] Source file: __loader.c
+[2022-12-14T22:06:19.728463 8068 ] Object file: __loader.o
+[2022-12-14T22:06:19.728463 8068 ] Trying direct lookup
+[2022-12-14T22:06:19.728463 8068 ] Retrieved 0fc9qeb56fmn59bte7skq7nv0o1fd1hac from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/c9qeb56fmn59bte7skq7nv0o1fd1hacM)
+[2022-12-14T22:06:19.729476 8068 ] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/f/c9qeb56fmn59bte7skq7nv0o1fd1hacM
+[2022-12-14T22:06:19.783566 8068 ] Got result key from manifest
+[2022-12-14T22:06:19.783566 8068 ] Retrieved 1931452si02k4n4dehto3qnthe3o5tobs from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/31452si02k4n4dehto3qnthe3o5tobsR)
+[2022-12-14T22:06:19.784628 8068 ] Reading embedded entry #0 .o (9439 bytes)
+[2022-12-14T22:06:19.784628 8068 ] Writing to __loader.o
+[2022-12-14T22:06:19.790356 8068 ] Succeeded getting cached result
+[2022-12-14T22:06:19.790356 8068 ] Result: direct_cache_hit
+[2022-12-14T22:06:19.790356 8068 ] Result: primary_storage_hit
+[2022-12-14T22:06:19.796562 8068 ] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/4/stats.lock
+[2022-12-14T22:06:19.807827 8068 ] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/4/stats.lock
+[2022-12-14T22:06:19.831447 6200 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:19.831447 5792 ] Got result key from manifest
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) base_dir = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) compiler = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) compiler_type = auto
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) compression = true
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) compression_level = 0
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) cpp_extension = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) debug = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) debug_dir = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) depend_mode = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) direct_mode = true
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) disable = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) file_clone = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) hard_link = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) hash_dir = true
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) ignore_options = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) inode_cache = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:19.831447 6200 ] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) max_files = 0
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) namespace = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) path = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) prefix_command = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) read_only = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) read_only_direct = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) recache = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) reshare = false
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) secondary_storage = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) stats = true
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) stats_log = 
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:19.831447 6200 ] Config: (default) umask = 
+[2022-12-14T22:06:19.831447 6200 ] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_sr[2022-12-14T22:06:19.831447 14960] Got result key from manifest
+[2022-12-14T22:06:19.831447 5792 ] Retrieved 687bro4j3njibp83433ki41ci0ge13kmg from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/8/7bro4j3njibp83433ki41ci0ge13kmgR)
+[2022-12-14T22:06:19.831993 14960] Retrieved ee16jrgeesu7ik79esu0n5p8erqdjaeaq from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/16jrgeesu7ik79esu0n5p8erqdjaeaqR)
+[2022-12-14T22:06:19.832531 5792 ] Reading embedded entry #0 .o (14191 bytes)
+[2022-12-14T22:06:19.832531 5792 ] Writing to __constants.o
+[2022-12-14T22:06:19.832531 14960] Reading embedded entry #0 .o (2647 bytes)
+[2022-12-14T22:06:19.832531 14960] Writing to __helpers.o
+[2022-12-14T22:06:19.832531 5792 ] Succeeded getting cached result
+[2022-12-14T22:06:19.833070 5792 ] Result: direct_cache_hit
+[2022-12-14T22:06:19.833070 5792 ] Result: primary_storage_hit
+[2022-12-14T22:06:19.833070 14960] Succeeded getting cached result
+[2022-12-14T22:06:19.833070 14960] Result: direct_cache_hit
+[2022-12-14T22:06:19.833070 14960] Result: primary_storage_hit
+[2022-12-14T22:06:19.833607 5792 ] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/stats.lock
+[2022-12-14T22:06:19.834368 14960] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/0/stats.lock
+[2022-12-14T22:06:19.836868 14960] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/0/stats.lock
+[2022-12-14T22:06:19.850278 6200 ] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:19.850278 6200 ] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:19.850278 6200 ] Compiler type: gcc
+[2022-12-14T22:06:19.851291 6200 ] Source file: module.__main__.c
+[2022-12-14T22:06:19.852290 6200 ] Object file: module.__main__.o
+[2022-12-14T22:06:19.852290 6200 ] Trying direct lookup
+[2022-12-14T22:06:19.852290 5792 ] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/stats.lock
+[2022-12-14T22:06:19.852290 6200 ] Retrieved 7c9b82s817bv2naavseptso30jkdmd3qk from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/9b82s817bv2naavseptso30jkdmd3qkM)
+[2022-12-14T22:06:19.853291 6200 ] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/c/9b82s817bv2naavseptso30jkdmd3qkM
+[2022-12-14T22:06:19.942210 15888] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:19.942210 15888] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) base_dir = 
+[2022-12-14T22:06:19.942210 15888] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:19.942210 15888] Config: (default) compiler = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:19.942210 15888] Config: (default) compiler_type = auto
+[2022-12-14T22:06:19.942210 15888] Config: (default) compression = true
+[2022-12-14T22:06:19.942210 15888] Config: (default) compression_level = 0
+[2022-12-14T22:06:19.942210 15888] Config: (default) cpp_extension = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) debug = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) debug_dir = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) depend_mode = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) direct_mode = true
+[2022-12-14T22:06:19.942210 15888] Config: (default) disable = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) file_clone = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) hard_link = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) hash_dir = true
+[2022-12-14T22:06:19.942210 15888] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) ignore_options = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) inode_cache = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:19.942210 15888] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:19.942210 15888] Config: (default) max_files = 0
+[2022-12-14T22:06:19.942210 15888] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:19.942210 15888] Config: (default) namespace = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) path = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) prefix_command = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) read_only = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) read_only_direct = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) recache = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) reshare = false
+[2022-12-14T22:06:19.942210 15888] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:19.942210 15888] Config: (default) secondary_storage = 
+[2022-12-14T22:06:19.942210 15888] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:19.942210 15888] Config: (default) stats = true
+[2022-12-14T22:06:19.942210 15888] Config: (default) stats_log = 
+[2022-12-14T22:06:19.942210 15888] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:19.942210 15888] Config: (default) umask = 
+[2022-12-14T22:06:19.942210 15888] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2022-12-14T22:06:19.949821 16860] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:19.949821 16860] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) base_dir = 
+[2022-12-14T22:06:19.949821 16860] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:19.949821 16860] Config: (default) compiler = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:19.949821 16860] Config: (default) compiler_type = auto
+[2022-12-14T22:06:19.949821 16860] Config: (default) compression = true
+[2022-12-14T22:06:19.949821 16860] Config: (default) compression_level = 0
+[2022-12-14T22:06:19.949821 16860] Config: (default) cpp_extension = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) debug = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) debug_dir = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) depend_mode = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) direct_mode = true
+[2022-12-14T22:06:19.949821 16860] Config: (default) disable = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) file_clone = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) hard_link = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) hash_dir = true
+[2022-12-14T22:06:19.949821 16860] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) ignore_options = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) inode_cache = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:19.949821 16860] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:19.949821 16860] Config: (default) max_files = 0
+[2022-12-14T22:06:19.949821 16860] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:19.949821 16860] Config: (default) namespace = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) path = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) prefix_command = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) read_only = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) read_only_direct = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) recache = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) reshare = false
+[2022-12-14T22:06:19.949821 16860] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:19.949821 16860] Config: (default) secondary_storage = 
+[2022-12-14T22:06:19.949821 16860] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:19.949821 16860] Config: (default) stats = true
+[2022-12-14T22:06:19.949821 16860] Config: (default) stats_log = 
+[2022-12-14T22:06:19.949821 16860] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:19.949821 16860] Config: (default) umask = 
+[2022-12-14T22:06:19.952208 16860] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2022-12-14T22:06:19.952557 15888] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:19.952557 15888] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:19.952557 15888] Compiler type: gcc
+[2022-12-14T22:06:19.964423 15888] Source file: static_src\CompiledCellType.c
+[2022-12-14T22:06:19.964423 15888] Object file: static_src\CompiledCellType.o
+[2022-12-14T22:06:19.964423 15888] Trying direct lookup
+[2022-12-14T22:06:19.964965 15888] Retrieved 9a324en4n21fjpsifo9v7mjeucv7f30dk from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/a/324en4n21fjpsifo9v7mjeucv7f30dkM)
+[2022-12-14T22:06:19.965503 15888] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/a/324en4n21fjpsifo9v7mjeucv7f30dkM
+[2022-12-14T22:06:19.966043 16860] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:19.966043 16860] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:19.966043 16860] Compiler type: gcc
+[2022-12-14T22:06:19.967153 16860] Source file: static_src\MainProgram.c
+[2022-12-14T22:06:19.967153 16860] Object file: static_src\MainProgram.o
+[2022-12-14T22:06:19.967153 16860] Trying direct lookup
+[2022-12-14T22:06:19.967684 16860] Retrieved bedfkl93cih85ohfml88539ph6koove8e from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/e/dfkl93cih85ohfml88539ph6koove8eM)
+[2022-12-14T22:06:19.976518 16860] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/e/dfkl93cih85ohfml88539ph6koove8eM
+[2022-12-14T22:06:19.995618 6200 ] Got result key from manifest
+[2022-12-14T22:06:19.996617 6200 ] Retrieved 0015h2mpqrhrku0jsbvjubugbvvj7aum6 from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/0/15h2mpqrhrku0jsbvjubugbvvj7aum6R)
+[2022-12-14T22:06:20.021921 6200 ] Reading embedded entry #0 .o (101169 bytes)
+[2022-12-14T22:06:20.021921 6200 ] Writing to module.__main__.o
+[2022-12-14T22:06:20.022452 6200 ] Succeeded getting cached result
+[2022-12-14T22:06:20.022983 6200 ] Result: direct_cache_hit
+[2022-12-14T22:06:20.022983 6200 ] Result: primary_storage_hit
+[2022-12-14T22:06:20.039557 6200 ] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/8/stats.lock
+[2022-12-14T22:06:20.041663 6200 ] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/8/stats.lock
+[2022-12-14T22:06:20.114351 16860] Got result key from manifest
+[2022-12-14T22:06:20.114351 16860] Retrieved 054dq6fai6t3644ivf13iebqjc3im7svi from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/5/4dq6fai6t3644ivf13iebqjc3im7sviR)
+[2022-12-14T22:06:20.115795 16860] Reading embedded entry #0 .o (29201 bytes)
+[2022-12-14T22:06:20.115908 16860] Writing to static_src\MainProgram.o
+[2022-12-14T22:06:20.116784 16860] Succeeded getting cached result
+[2022-12-14T22:06:20.116784 16860] Result: direct_cache_hit
+[2022-12-14T22:06:20.116784 16860] Result: primary_storage_hit
+[2022-12-14T22:06:20.118321 16860] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/stats.lock
+[2022-12-14T22:06:20.120479 15888] Got result key from manifest
+[2022-12-14T22:06:20.120479 15888] Retrieved b1a6kt2fe91s1dobj8apcn5i2634ejoto from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/1/a6kt2fe91s1dobj8apcn5i2634ejotoR)
+[2022-12-14T22:06:20.121192 16860] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/c/stats.lock
+[2022-12-14T22:06:20.121800 15888] Reading embedded entry #0 .o (31863 bytes)
+[2022-12-14T22:06:20.122308 15888] Writing to static_src\CompiledCellType.o
+[2022-12-14T22:06:20.126221 15888] Succeeded getting cached result
+[2022-12-14T22:06:20.126221 15888] Result: direct_cache_hit
+[2022-12-14T22:06:20.126221 15888] Result: primary_storage_hit
+[2022-12-14T22:06:20.127837 15888] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/stats.lock
+[2022-12-14T22:06:20.133221 15888] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/stats.lock
+[2022-12-14T22:06:20.465032 6596 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) base_dir = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) compiler = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) compiler_type = auto
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) compression = true
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) compression_level = 0
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) cpp_extension = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) debug = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) debug_dir = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) depend_mode = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) direct_mode = true
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) disable = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) file_clone = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) hard_link = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) hash_dir = true
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) ignore_options = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) inode_cache = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:20.465032 6596 ] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) max_files = 0
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) namespace = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) path = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) prefix_command = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) read_only = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) read_only_direct = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) recache = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) reshare = false
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) secondary_storage = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) stats = true
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) stats_log = 
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:20.465032 6596 ] Config: (default) umask = 
+[2022-12-14T22:06:20.465567 6596 ] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-12-14T22:06:20.473002 6596 ] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:20.473002 6596 ] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:20.473002 6596 ] Compiler type: gcc
+[2022-12-14T22:06:20.473558 6596 ] Source file: static_src\CompiledFunctionType.c
+[2022-12-14T22:06:20.473558 6596 ] Object file: static_src\CompiledFunctionType.o
+[2022-12-14T22:06:20.475670 6596 ] Trying direct lookup
+[2022-12-14T22:06:20.477310 6596 ] Retrieved e036u66i2o6j3hjas4hcmorh8mgnim0ou from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/36u66i2o6j3hjas4hcmorh8mgnim0ouM)
+[2022-12-14T22:06:20.477849 6596 ] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/0/36u66i2o6j3hjas4hcmorh8mgnim0ouM
+[2022-12-14T22:06:20.557259 16240] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:20.557259 16240] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) base_dir = 
+[2022-12-14T22:06:20.557259 16240] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:20.557259 16240] Config: (default) compiler = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:20.557259 16240] Config: (default) compiler_type = auto
+[2022-12-14T22:06:20.557259 16240] Config: (default) compression = true
+[2022-12-14T22:06:20.557259 16240] Config: (default) compression_level = 0
+[2022-12-14T22:06:20.557259 16240] Config: (default) cpp_extension = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) debug = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) debug_dir = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) depend_mode = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) direct_mode = true
+[2022-12-14T22:06:20.557259 16240] Config: (default) disable = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) file_clone = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) hard_link = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) hash_dir = true
+[2022-12-14T22:06:20.557259 16240] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) ignore_options = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) inode_cache = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:20.557259 16240] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:20.557259 16240] Config: (default) max_files = 0
+[2022-12-14T22:06:20.557259 16240] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:20.557259 16240] Config: (default) namespace = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) path = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) prefix_command = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) read_only = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) read_only_direct = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) recache = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) reshare = false
+[2022-12-14T22:06:20.557259 16240] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:20.557259 16240] Config: (default) secondary_storage = 
+[2022-12-14T22:06:20.557259 16240] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:20.557259 16240] Config: (default) stats = true
+[2022-12-14T22:06:20.557259 16240] Config: (default) stats_log = 
+[2022-12-14T22:06:20.557259 16240] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:20.557259 16240] Config: (default) umask = 
+[2022-12-14T22:06:20.557259 16240] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-12-14T22:06:20.566634 16240] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:20.566634 16240] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:20.566634 16240] Compiler type: gcc
+[2022-12-14T22:06:20.567142 16240] Source file: static_src\InspectPatcher.c
+[2022-12-14T22:06:20.567142 16240] Object file: static_src\InspectPatcher.o
+[2022-12-14T22:06:20.567673 16240] Trying direct lookup
+[2022-12-14T22:06:20.568200 16240] Retrieved e460og4q6i2u8ltejmvrcg3p7epgmqeso from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/60og4q6i2u8ltejmvrcg3p7epgmqesoM)
+[2022-12-14T22:06:20.568728 16240] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/60og4q6i2u8ltejmvrcg3p7epgmqesoM
+[2022-12-14T22:06:20.579729 6816 ] === CCACHE 4.6 STARTED =========================================
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) absolute_paths_in_stderr = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) base_dir = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) compiler = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) compiler_check = mtime
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) compiler_type = auto
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) compression = true
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) compression_level = 0
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) cpp_extension = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) debug = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) debug_dir = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) depend_mode = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) direct_mode = true
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) disable = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) extra_files_to_hash = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) file_clone = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) hard_link = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) hash_dir = true
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) ignore_headers_in_manifest = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) ignore_options = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) inode_cache = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) keep_comments_cpp = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) limit_multiple = 0.8
+[2022-12-14T22:06:20.579729 6816 ] Config: (environment) log_file = D:\Code\TEACHE~2\TeacherHelper-Tkinter.build\ccache-17188.txt
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) max_files = 0
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) max_size = 5.0G
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) namespace = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) path = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) pch_external_checksum = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) prefix_command = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) prefix_command_cpp = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) read_only = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) read_only_direct = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) recache = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) reshare = false
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) run_second_cpp = true
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) secondary_storage = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) stats = true
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) stats_log = 
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-14T22:06:20.579729 6816 ] Config: (default) umask = 
+[2022-12-14T22:06:20.580262 6816 ] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Program Files\Python37\include -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-12-14T22:06:20.590114 6816 ] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-14T22:06:20.590114 6816 ] Working directory: D:/Code/TEACHE~2/TeacherHelper-Tkinter.build
+[2022-12-14T22:06:20.590114 6816 ] Compiler type: gcc
+[2022-12-14T22:06:20.592239 6816 ] Source file: static_src\CompiledGeneratorType.c
+[2022-12-14T22:06:20.594255 6816 ] Object file: static_src\CompiledGeneratorType.o
+[2022-12-14T22:06:20.594255 6816 ] Trying direct lookup
+[2022-12-14T22:06:20.669749 6816 ] Retrieved 53e28gtmlgmdj8u9a52u76tjnmodgljn2 from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/3/e28gtmlgmdj8u9a52u76tjnmodgljn2M)
+[2022-12-14T22:06:20.669749 6816 ] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/3/e28gtmlgmdj8u9a52u76tjnmodgljn2M
+[2022-12-14T22:06:20.748374 6596 ] Got result key from manifest
+[2022-12-14T22:06:20.749375 6596 ] Retrieved fb75i4u2ikv7e0k7a96m0pve4s3e6n63u from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/b/75i4u2ikv7e0k7a96m0pve4s3e6n63uR)
+[2022-12-14T22:06:20.804852 6596 ] Reading embedded entry #0 .o (2908902 bytes)
+[2022-12-14T22:06:20.804852 6596 ] Writing to static_src\CompiledFunctionType.o
+[2022-12-14T22:06:20.831751 6596 ] Succeeded getting cached result
+[2022-12-14T22:06:20.831751 6596 ] Result: direct_cache_hit
+[2022-12-14T22:06:20.831751 6596 ] Result: primary_storage_hit
+[2022-12-14T22:06:20.833751 6596 ] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/stats.lock
+[2022-12-14T22:06:20.836292 6596 ] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/stats.lock
+[2022-12-14T22:06:20.888604 16240] Got result key from manifest
+[2022-12-14T22:06:20.888604 16240] Retrieved aeaclpeugm9cjea39hv35aho0jmn50jce from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/e/aclpeugm9cjea39hv35aho0jmn50jceR)
+[2022-12-14T22:06:20.889142 16240] Reading embedded entry #0 .o (39261 bytes)
+[2022-12-14T22:06:20.889142 16240] Writing to static_src\InspectPatcher.o
+[2022-12-14T22:06:20.895526 16240] Succeeded getting cached result
+[2022-12-14T22:06:20.896529 16240] Result: direct_cache_hit
+[2022-12-14T22:06:20.896529 16240] Result: primary_storage_hit
+[2022-12-14T22:06:20.896529 16240] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/0/stats.lock
+[2022-12-14T22:06:20.901528 6816 ] Got result key from manifest
+[2022-12-14T22:06:20.902526 6816 ] Retrieved cc3b4vj7bhi50u550f2ptsq6v0j15m6vk from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/3b4vj7bhi50u550f2ptsq6v0j15m6vkR)
+[2022-12-14T22:06:20.920794 6816 ] Reading embedded entry #0 .o (336751 bytes)
+[2022-12-14T22:06:20.920794 6816 ] Writing to static_src\CompiledGeneratorType.o
+[2022-12-14T22:06:20.927415 6816 ] Succeeded getting cached result
+[2022-12-14T22:06:20.927415 6816 ] Result: direct_cache_hit
+[2022-12-14T22:06:20.927415 6816 ] Result: primary_storage_hit
+[2022-12-14T22:06:20.935978 6816 ] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/stats.lock
+[2022-12-14T22:06:20.948064 16240] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/0/stats.lock
+[2022-12-14T22:06:20.950064 6816 ] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/stats.lock
