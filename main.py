@@ -1,5 +1,21 @@
 from tkinter import *
-from core import random
+from random import randint
+from tkinter.messagebox import showinfo
+def random():
+    if v.get() == 1:
+        mode = "学号模式"
+        number = randint(1, 60)
+        text = "学号" + str(number) + "号同学，你被抽到了"
+        showinfo("提示", text)
+    elif v.get() == 2:
+        mode = "机号模式"
+        number = randint(1, 50)
+        text = str(number) + "号机同学，你被抽到了"
+        showinfo("提示", text)
+    else:
+        mode = "名字模式"
+        text = "我在写代码了!"
+        showinfo("提示", text)
 
 #主窗口初始化
 root = Tk()
@@ -17,7 +33,6 @@ MODES = [
 
 v = IntVar(master=root)
 v.set(1)
-choice = v.get()
 
 for modes, num in MODES:
     b1 = Radiobutton(group1, text=modes, variable=v, value=num, indicatoron=False)

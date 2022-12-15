@@ -1,0 +1,1 @@
+python -m nuitka .\main.py  --windows-disable-console  --standalone --onefile --enable-plugin=tk-inter --windows-icon-from-ico=./老师.ico --windows-compy-name=LaobingStudio --windows-product-name=TeacherHelper --windows-product-version=0.1.4
