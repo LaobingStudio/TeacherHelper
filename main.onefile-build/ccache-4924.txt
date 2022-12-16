@@ -1,0 +1,61 @@
+[2022-12-16T22:05:16.237106 15896] === CCACHE 4.6 STARTED =========================================
+[2022-12-16T22:05:16.237106 15896] Config: (default) absolute_paths_in_stderr = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) base_dir = 
+[2022-12-16T22:05:16.237106 15896] Config: (environment) cache_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-12-16T22:05:16.237106 15896] Config: (default) compiler = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) compiler_check = mtime
+[2022-12-16T22:05:16.237106 15896] Config: (default) compiler_type = auto
+[2022-12-16T22:05:16.237106 15896] Config: (default) compression = true
+[2022-12-16T22:05:16.237106 15896] Config: (default) compression_level = 0
+[2022-12-16T22:05:16.237106 15896] Config: (default) cpp_extension = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) debug = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) debug_dir = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) depend_mode = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) direct_mode = true
+[2022-12-16T22:05:16.237106 15896] Config: (default) disable = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) extra_files_to_hash = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) file_clone = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) hard_link = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) hash_dir = true
+[2022-12-16T22:05:16.237106 15896] Config: (default) ignore_headers_in_manifest = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) ignore_options = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) inode_cache = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) keep_comments_cpp = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) limit_multiple = 0.8
+[2022-12-16T22:05:16.237106 15896] Config: (environment) log_file = D:\Code\TEACHE~2\main.onefile-build\ccache-4924.txt
+[2022-12-16T22:05:16.237106 15896] Config: (default) max_files = 0
+[2022-12-16T22:05:16.237106 15896] Config: (default) max_size = 5.0G
+[2022-12-16T22:05:16.237106 15896] Config: (default) namespace = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) path = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) pch_external_checksum = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) prefix_command = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) prefix_command_cpp = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) read_only = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) read_only_direct = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) recache = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) reshare = false
+[2022-12-16T22:05:16.237106 15896] Config: (default) run_second_cpp = true
+[2022-12-16T22:05:16.237106 15896] Config: (default) secondary_storage = 
+[2022-12-16T22:05:16.237106 15896] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2022-12-16T22:05:16.237106 15896] Config: (default) stats = true
+[2022-12-16T22:05:16.237106 15896] Config: (default) stats_log = 
+[2022-12-16T22:05:16.237106 15896] Config: (default) temporary_dir = C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-12-16T22:05:16.237106 15896] Config: (default) umask = 
+[2022-12-16T22:05:16.237106 15896] Command line: C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\OnefileBootstrap.o -c -flto -fuse-linker-plugin -fno-fat-lto-objects -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_WINMAIN_ENTRY_POINT -D_NUITKA_ONEFILE_MODE -I. -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\include -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\static_src -IC:\Users\ÉÕº÷ÀÓ±ý\AppData\Roaming\Python\Python37\SITE-P~1\nuitka\build\inline_copy\zstd static_src\OnefileBootstrap.c
+[2022-12-16T22:05:16.243188 15896] Hostname: ÀÓ±ýÅÆ°å×©
+[2022-12-16T22:05:16.243188 15896] Working directory: D:/Code/TEACHE~2/main.onefile-build
+[2022-12-16T22:05:16.243188 15896] Compiler type: gcc
+[2022-12-16T22:05:16.244008 15896] Source file: static_src\OnefileBootstrap.c
+[2022-12-16T22:05:16.244008 15896] Object file: static_src\OnefileBootstrap.o
+[2022-12-16T22:05:16.244008 15896] Trying direct lookup
+[2022-12-16T22:05:16.245225 15896] Retrieved 293frhppa1dii4j9cutj08eqh3opfs42q from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/9/3frhppa1dii4j9cutj08eqh3opfs42qM)
+[2022-12-16T22:05:16.245225 15896] Looking for result key in C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/9/3frhppa1dii4j9cutj08eqh3opfs42qM
+[2022-12-16T22:05:16.301609 15896] Got result key from manifest
+[2022-12-16T22:05:16.302117 15896] Retrieved b25bpa8cm9bg9vkhpalg5abclntlh08g0 from primary storage (C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/2/5bpa8cm9bg9vkhpalg5abclntlh08g0R)
+[2022-12-16T22:05:16.304175 15896] Reading embedded entry #0 .o (539799 bytes)
+[2022-12-16T22:05:16.304175 15896] Writing to static_src\OnefileBootstrap.o
+[2022-12-16T22:05:16.305764 15896] Succeeded getting cached result
+[2022-12-16T22:05:16.305840 15896] Result: direct_cache_hit
+[2022-12-16T22:05:16.305840 15896] Result: primary_storage_hit
+[2022-12-16T22:05:16.306122 15896] Acquired lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/8/stats.lock
+[2022-12-16T22:05:16.308224 15896] Releasing lock C:\Users\ÉÕº÷ÀÓ±ý\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/8/stats.lock
